@@ -16,6 +16,8 @@ antworten = [
     "Colonius"
     ]
 
+print("Herzlich willkommen zu WER WIRD MILLLIONÄR?")
+
 for i in range(len(fragen)):
     print(fragen[i])
 

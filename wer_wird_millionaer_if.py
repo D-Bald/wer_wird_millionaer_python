@@ -1,3 +1,5 @@
+# TODO: Ergänze die Fragen und Antworten
+
 print("100 Frage: ")
 
 antwort1 = input()
@@ -42,3 +44,4 @@ if antwort5 == "":
     print("RICHTIG!")
 else:
     print("Leider falsch!")
+
