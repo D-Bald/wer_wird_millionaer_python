@@ -9,36 +9,36 @@ else:
 
 print("200 Frage: ")
 
-antwort1 = input()
+antwort2 = input()
 
-if antwort1 == "":
+if antwort2 == "":
     print("RICHTIG!")
 else:
     print("Leider falsch!")
 
 print("300 Frage: ")
 
-antwort1 = input()
+antwort3 = input()
 
-if antwort1 == "":
+if antwort3 == "":
     print("RICHTIG!")
 else:
     print("Leider falsch!")
 
 print("500 Frage: ")
 
-antwort1 = input()
+antwort4 = input()
 
-if antwort1 == "":
+if antwort4 == "":
     print("RICHTIG!")
 else:
     print("Leider falsch!")
 
 print("1000 Frage: ")
 
-antwort1 = input()
+antwort5 = input()
 
-if antwort1 == "":
+if antwort5 == "":
     print("RICHTIG!")
 else:
     print("Leider falsch!")
